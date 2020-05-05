@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dairy4</string>
+    <string name="alarm">Будильник сработает  </string>
+    <string name="onetime">Будильник сработает 1 раз</string>
+    <string name="evday">Будильник будет срабатывать каждый день</string>
+    <string name="canceled">Будильник сборшен</string>
+</resources>
