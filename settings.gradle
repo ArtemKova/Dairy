@@ -1,0 +1,2 @@
+rootProject.name='Dairy4'
+include ':app'
